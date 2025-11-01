@@ -1,0 +1,62 @@
+{
+  "total_contributors": 194,
+  "contributors_with_location": 69,
+  "coverage_percentage": 35.56701030927835,
+  "countries_identified": 10,
+  "countries": {
+    "Unknown": 125,
+    "United States": 26,
+    "India": 18,
+    "United Kingdom": 7,
+    "Germany": 5,
+    "Japan": 5,
+    "Canada": 3,
+    "China": 2,
+    "Australia": 1,
+    "France": 1,
+    "Netherlands": 1
+  },
+  "top_10_countries": [
+    [
+      "Unknown",
+      125
+    ],
+    [
+      "United States",
+      26
+    ],
+    [
+      "India",
+      18
+    ],
+    [
+      "United Kingdom",
+      7
+    ],
+    [
+      "Germany",
+      5
+    ],
+    [
+      "Japan",
+      5
+    ],
+    [
+      "Canada",
+      3
+    ],
+    [
+      "China",
+      2
+    ],
+    [
+      "Australia",
+      1
+    ],
+    [
+      "France",
+      1
+    ]
+  ],
+  "data_source": "Step 6 geolocation results"
+}

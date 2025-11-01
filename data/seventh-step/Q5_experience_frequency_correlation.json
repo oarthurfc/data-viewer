@@ -1,0 +1,41 @@
+{
+  "Intermediate": {
+    "contributors_count": 175,
+    "total_prs_stats": {
+      "mean": 3.222857142857143,
+      "median": 1,
+      "sum": 564
+    },
+    "avg_interval_stats": {
+      "mean_days": 11.87712093521395,
+      "median_days": 3,
+      "contributors_with_intervals": 43
+    }
+  },
+  "Advanced": {
+    "contributors_count": 7,
+    "total_prs_stats": {
+      "mean": 183.71428571428572,
+      "median": 178,
+      "sum": 1286
+    },
+    "avg_interval_stats": {
+      "mean_days": 2.917541852745854,
+      "median_days": 1.6836158192090396,
+      "contributors_with_intervals": 7
+    }
+  },
+  "Initial": {
+    "contributors_count": 12,
+    "total_prs_stats": {
+      "mean": 3.25,
+      "median": 3.0,
+      "sum": 39
+    },
+    "avg_interval_stats": {
+      "mean_days": 118.50555555555556,
+      "median_days": 91.0,
+      "contributors_with_intervals": 12
+    }
+  }
+}

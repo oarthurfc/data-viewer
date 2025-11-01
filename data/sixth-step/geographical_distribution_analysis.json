@@ -1,0 +1,128 @@
+{
+  "processed_at": "2025-10-29 09:36:42",
+  "repository_limitation": true,
+  "total_contributors": 50,
+  "countries_identified": 16,
+  "unknown_location": 22,
+  "coverage_percentage": 56.00000000000001,
+  "country_distribution": {
+    "Unknown": {
+      "contributors": 22,
+      "percentage": 44.0
+    },
+    "United States of America": {
+      "contributors": 8,
+      "percentage": 16.0
+    },
+    "India": {
+      "contributors": 5,
+      "percentage": 10.0
+    },
+    "Deutschland": {
+      "contributors": 2,
+      "percentage": 4.0
+    },
+    "Polska": {
+      "contributors": 1,
+      "percentage": 2.0
+    },
+    "United Kingdom": {
+      "contributors": 1,
+      "percentage": 2.0
+    },
+    "Türkiye": {
+      "contributors": 1,
+      "percentage": 2.0
+    },
+    "Canada": {
+      "contributors": 1,
+      "percentage": 2.0
+    },
+    "Brasil": {
+      "contributors": 1,
+      "percentage": 2.0
+    },
+    "Österreich": {
+      "contributors": 1,
+      "percentage": 2.0
+    },
+    "Portugal": {
+      "contributors": 1,
+      "percentage": 2.0
+    },
+    "臺灣": {
+      "contributors": 1,
+      "percentage": 2.0
+    },
+    "Venezuela": {
+      "contributors": 1,
+      "percentage": 2.0
+    },
+    "日本": {
+      "contributors": 1,
+      "percentage": 2.0
+    },
+    "New Zealand / Aotearoa": {
+      "contributors": 1,
+      "percentage": 2.0
+    },
+    "Australia": {
+      "contributors": 1,
+      "percentage": 2.0
+    },
+    "Україна": {
+      "contributors": 1,
+      "percentage": 2.0
+    }
+  },
+  "confidence_distribution": {
+    "high": 28,
+    "low": 22
+  },
+  "method_distribution": {
+    "nominatim": 28,
+    "no_location": 22
+  },
+  "top_10_countries": [
+    [
+      "Unknown",
+      22
+    ],
+    [
+      "United States of America",
+      8
+    ],
+    [
+      "India",
+      5
+    ],
+    [
+      "Deutschland",
+      2
+    ],
+    [
+      "Polska",
+      1
+    ],
+    [
+      "United Kingdom",
+      1
+    ],
+    [
+      "Türkiye",
+      1
+    ],
+    [
+      "Canada",
+      1
+    ],
+    [
+      "Brasil",
+      1
+    ],
+    [
+      "Österreich",
+      1
+    ]
+  ]
+}

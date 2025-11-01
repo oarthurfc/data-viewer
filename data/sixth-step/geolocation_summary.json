@@ -1,0 +1,36 @@
+{
+  "processed_at": "2025-10-29 09:36:42",
+  "repository_limitation": true,
+  "summary": {
+    "total_contributors": 50,
+    "located_contributors": 28,
+    "coverage_percentage": 56.00000000000001,
+    "countries_identified": 16,
+    "top_5_countries": [
+      [
+        "Unknown",
+        22
+      ],
+      [
+        "United States of America",
+        8
+      ],
+      [
+        "India",
+        5
+      ],
+      [
+        "Deutschland",
+        2
+      ],
+      [
+        "Polska",
+        1
+      ]
+    ],
+    "geolocation_methods": {
+      "nominatim": 28,
+      "no_location": 22
+    }
+  }
+}

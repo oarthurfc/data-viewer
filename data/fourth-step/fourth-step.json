@@ -1,0 +1,20 @@
+{
+  "collection_info": {
+    "processed_at": "2025-10-27T14:54:03.183518",
+    "date_range": {
+      "start_date": "2024-10-27T12:54:10.842263+00:00",
+      "end_date": "2025-10-27T12:54:10.842263+00:00"
+    },
+    "total_repositories_processed": 1000,
+    "total_prs_collected": 508681,
+    "state_counts": {
+      "open": 38789,
+      "closed": 108007,
+      "merged": 361885
+    },
+    "data_files": {
+      "incremental_data": "prs_details.jsonl",
+      "summary": "fourth-step.json"
+    }
+  }
+}

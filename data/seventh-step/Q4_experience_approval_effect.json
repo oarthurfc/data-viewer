@@ -1,0 +1,23 @@
+{
+  "Intermediate": {
+    "total_prs": 564,
+    "approved_prs": 284,
+    "approval_rate": 0.5035460992907801,
+    "approval_percentage": 50.35460992907801,
+    "contributors_count": 175
+  },
+  "Advanced": {
+    "total_prs": 1286,
+    "approved_prs": 1106,
+    "approval_rate": 0.8600311041990669,
+    "approval_percentage": 86.00311041990669,
+    "contributors_count": 7
+  },
+  "Initial": {
+    "total_prs": 39,
+    "approved_prs": 11,
+    "approval_rate": 0.28205128205128205,
+    "approval_percentage": 28.205128205128204,
+    "contributors_count": 12
+  }
+}

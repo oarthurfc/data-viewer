@@ -1,0 +1,158 @@
+{
+  "total_contributors": 194,
+  "contributors_with_company": 65,
+  "coverage_percentage": 33.50515463917525,
+  "companies": {
+    "Independent/Unknown": 129,
+    "Vercel": 3,
+    "Meta": 14,
+    "Instacart": 1,
+    "Open For Work": 1,
+    "Hubspot": 1,
+    "Datadog": 2,
+    "Google": 1,
+    "Ncdc Co Ltd Ncdcdev": 1,
+    "Guzman Y Gomez": 1,
+    "家里蹲有限公司": 1,
+    "Codersh Web Service": 1,
+    "Synthesia Io": 1,
+    "Software Mansion": 1,
+    "Asana": 1,
+    "Next Js Team Vercel": 1,
+    "Sanity-Io": 1,
+    "John Deere": 1,
+    "Carbometrix": 1,
+    "Synvexai": 1,
+    "센디 Sendy": 1,
+    "The Aimegroup": 1,
+    "Woowacourse": 1,
+    "Elitmus Evaluation Pvt Ltd": 1,
+    "Farmitix Inc": 1,
+    "Ut Austin": 1,
+    "Standard Carbon": 1,
+    "Oven-Sh Bun": 1,
+    "Upleveled": 1,
+    "Better-Auth": 1,
+    "Prominentpixel": 1,
+    "Huinno": 1,
+    "Na": 1,
+    "Voidzero-Dev": 1,
+    "Yahoo": 1,
+    "Lichtblick": 1,
+    "Ossdaiict": 1,
+    "Non Profit Organization": 1,
+    "Deckers Brands": 1,
+    "Genesisnest": 1,
+    "Software-Mansion": 1,
+    "Apollographql": 1,
+    "Https Www Aichmv Com": 1,
+    "Shakacode And Popmenu": 1,
+    "Adobe": 1,
+    "Asosteam": 1,
+    "Hacktiv8": 1,
+    "Mindcontrolai": 1,
+    "Hot N Cold": 1,
+    "G2": 1
+  },
+  "top_20_companies": [
+    [
+      "Independent/Unknown",
+      129
+    ],
+    [
+      "Meta",
+      14
+    ],
+    [
+      "Vercel",
+      3
+    ],
+    [
+      "Datadog",
+      2
+    ],
+    [
+      "Instacart",
+      1
+    ],
+    [
+      "Open For Work",
+      1
+    ],
+    [
+      "Hubspot",
+      1
+    ],
+    [
+      "Google",
+      1
+    ],
+    [
+      "Ncdc Co Ltd Ncdcdev",
+      1
+    ],
+    [
+      "Guzman Y Gomez",
+      1
+    ],
+    [
+      "家里蹲有限公司",
+      1
+    ],
+    [
+      "Codersh Web Service",
+      1
+    ],
+    [
+      "Synthesia Io",
+      1
+    ],
+    [
+      "Software Mansion",
+      1
+    ],
+    [
+      "Asana",
+      1
+    ],
+    [
+      "Next Js Team Vercel",
+      1
+    ],
+    [
+      "Sanity-Io",
+      1
+    ],
+    [
+      "John Deere",
+      1
+    ],
+    [
+      "Carbometrix",
+      1
+    ],
+    [
+      "Synvexai",
+      1
+    ]
+  ],
+  "manga_contributors_count": 15,
+  "manga_contributors_list": [
+    "kassens",
+    "SeaOtocinclus",
+    "EugeneChoi4",
+    "poteto",
+    "facebook-github-bot",
+    "josephsavona",
+    "jorge-cab",
+    "hoxyq",
+    "josepharhar",
+    "javache",
+    "rubennorte",
+    "cipolleschi",
+    "rickhanlonii",
+    "jackpope",
+    "yungsters"
+  ],
+  "manga_percentage": 7.731958762886598
+}

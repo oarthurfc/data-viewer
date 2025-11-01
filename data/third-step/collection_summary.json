@@ -1,0 +1,11 @@
+{
+  "processed_at": "2025-10-19T13:53:54.544131",
+  "total_contributors_loaded": 10,
+  "total_contributors_processed": 10,
+  "total_prs_found": 4175,
+  "total_issues_found": 1058,
+  "data_source": "second-step.json",
+  "sample_size": null,
+  "data_format": "JSONL (one contributor per line)",
+  "data_file": "contributors_data.jsonl"
+}

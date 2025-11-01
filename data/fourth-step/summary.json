@@ -1,0 +1,31 @@
+{
+  "collection_info": {
+    "timestamp": "2025-10-27T14:54:03.189301",
+    "strategy": null,
+    "total_prs_collected": 508681,
+    "repositories_processed": 1000,
+    "languages_processed": [],
+    "date_range": {
+      "start_date": "2024-10-27T12:54:10.842263+00:00",
+      "end_date": "2025-10-27T12:54:10.842263+00:00"
+    },
+    "status": "completed",
+    "output_files": {
+      "prs_details": "prs_details.json",
+      "summary": "summary.json"
+    }
+  },
+  "statistics": {
+    "overall": {
+      "states": {
+        "open": 0,
+        "closed": 0,
+        "merged": 0
+      },
+      "avg_reviewers_requested": 0.0,
+      "avg_reviews_received": 0.0
+    },
+    "by_language": {},
+    "results_by_language": {}
+  }
+}

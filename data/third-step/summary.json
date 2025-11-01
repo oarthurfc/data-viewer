@@ -1,0 +1,16 @@
+{
+  "collection_info": {
+    "timestamp": "2025-10-19T13:53:54.545662",
+    "total_contributors_processed": 10,
+    "total_prs_found": 4175,
+    "total_issues_found": 1058,
+    "sample_size": null,
+    "status": "completed",
+    "data_source": "second-step.json",
+    "output_files": {
+      "contributors_data": "contributors_data.jsonl",
+      "collection_summary": "collection_summary.json",
+      "summary": "summary.json"
+    }
+  }
+}

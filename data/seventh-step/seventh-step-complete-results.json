@@ -1,0 +1,2155 @@
+{
+  "Q1_geographical_distribution": {
+    "total_contributors": 194,
+    "contributors_with_location": 69,
+    "coverage_percentage": 35.56701030927835,
+    "countries_identified": 10,
+    "countries": {
+      "Unknown": 125,
+      "United States": 26,
+      "India": 18,
+      "United Kingdom": 7,
+      "Germany": 5,
+      "Japan": 5,
+      "Canada": 3,
+      "China": 2,
+      "Australia": 1,
+      "France": 1,
+      "Netherlands": 1
+    },
+    "top_10_countries": [
+      [
+        "Unknown",
+        125
+      ],
+      [
+        "United States",
+        26
+      ],
+      [
+        "India",
+        18
+      ],
+      [
+        "United Kingdom",
+        7
+      ],
+      [
+        "Germany",
+        5
+      ],
+      [
+        "Japan",
+        5
+      ],
+      [
+        "Canada",
+        3
+      ],
+      [
+        "China",
+        2
+      ],
+      [
+        "Australia",
+        1
+      ],
+      [
+        "France",
+        1
+      ]
+    ],
+    "data_source": "Step 6 geolocation results"
+  },
+  "Q2_professional_affiliation": {
+    "total_contributors": 194,
+    "contributors_with_company": 65,
+    "coverage_percentage": 33.50515463917525,
+    "companies": {
+      "Independent/Unknown": 129,
+      "Vercel": 3,
+      "Meta": 14,
+      "Instacart": 1,
+      "Open For Work": 1,
+      "Hubspot": 1,
+      "Datadog": 2,
+      "Google": 1,
+      "Ncdc Co Ltd Ncdcdev": 1,
+      "Guzman Y Gomez": 1,
+      "家里蹲有限公司": 1,
+      "Codersh Web Service": 1,
+      "Synthesia Io": 1,
+      "Software Mansion": 1,
+      "Asana": 1,
+      "Next Js Team Vercel": 1,
+      "Sanity-Io": 1,
+      "John Deere": 1,
+      "Carbometrix": 1,
+      "Synvexai": 1,
+      "센디 Sendy": 1,
+      "The Aimegroup": 1,
+      "Woowacourse": 1,
+      "Elitmus Evaluation Pvt Ltd": 1,
+      "Farmitix Inc": 1,
+      "Ut Austin": 1,
+      "Standard Carbon": 1,
+      "Oven-Sh Bun": 1,
+      "Upleveled": 1,
+      "Better-Auth": 1,
+      "Prominentpixel": 1,
+      "Huinno": 1,
+      "Na": 1,
+      "Voidzero-Dev": 1,
+      "Yahoo": 1,
+      "Lichtblick": 1,
+      "Ossdaiict": 1,
+      "Non Profit Organization": 1,
+      "Deckers Brands": 1,
+      "Genesisnest": 1,
+      "Software-Mansion": 1,
+      "Apollographql": 1,
+      "Https Www Aichmv Com": 1,
+      "Shakacode And Popmenu": 1,
+      "Adobe": 1,
+      "Asosteam": 1,
+      "Hacktiv8": 1,
+      "Mindcontrolai": 1,
+      "Hot N Cold": 1,
+      "G2": 1
+    },
+    "top_20_companies": [
+      [
+        "Independent/Unknown",
+        129
+      ],
+      [
+        "Meta",
+        14
+      ],
+      [
+        "Vercel",
+        3
+      ],
+      [
+        "Datadog",
+        2
+      ],
+      [
+        "Instacart",
+        1
+      ],
+      [
+        "Open For Work",
+        1
+      ],
+      [
+        "Hubspot",
+        1
+      ],
+      [
+        "Google",
+        1
+      ],
+      [
+        "Ncdc Co Ltd Ncdcdev",
+        1
+      ],
+      [
+        "Guzman Y Gomez",
+        1
+      ],
+      [
+        "家里蹲有限公司",
+        1
+      ],
+      [
+        "Codersh Web Service",
+        1
+      ],
+      [
+        "Synthesia Io",
+        1
+      ],
+      [
+        "Software Mansion",
+        1
+      ],
+      [
+        "Asana",
+        1
+      ],
+      [
+        "Next Js Team Vercel",
+        1
+      ],
+      [
+        "Sanity-Io",
+        1
+      ],
+      [
+        "John Deere",
+        1
+      ],
+      [
+        "Carbometrix",
+        1
+      ],
+      [
+        "Synvexai",
+        1
+      ]
+    ],
+    "manga_contributors_count": 15,
+    "manga_contributors_list": [
+      "kassens",
+      "SeaOtocinclus",
+      "EugeneChoi4",
+      "poteto",
+      "facebook-github-bot",
+      "josephsavona",
+      "jorge-cab",
+      "hoxyq",
+      "josepharhar",
+      "javache",
+      "rubennorte",
+      "cipolleschi",
+      "rickhanlonii",
+      "jackpope",
+      "yungsters"
+    ],
+    "manga_percentage": 7.731958762886598
+  },
+  "Q3_experience_profile": {
+    "total_contributors_analyzed": 194,
+    "experience_score_stats": {
+      "mean": 0.4969902302268727,
+      "median": 0.500736160188457,
+      "min": 0.22465390076983482,
+      "max": 0.8496869335969682,
+      "p99_volume_threshold": 271.67999999999984
+    },
+    "experience_levels": {
+      "Intermediate": 175,
+      "Advanced": 7,
+      "Initial": 12
+    },
+    "experience_levels_percentage": {
+      "Intermediate": 90.20618556701031,
+      "Advanced": 3.608247422680412,
+      "Initial": 6.185567010309279
+    },
+    "formula_weights": {
+      "span": 0.2,
+      "regularity": 0.45,
+      "volume": 0.2,
+      "diversity": 0.15
+    },
+    "contributors": [
+      {
+        "login": "kuomars110",
+        "span_months": 0.0,
+        "active_months": 1,
+        "total_prs_created": 2,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 2,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.007361601884570087,
+        "experience_score": 0.501472320376914,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "eps1lon",
+        "span_months": 11.826544021024967,
+        "active_months": 13,
+        "total_prs_created": 178,
+        "total_prs_reviewed": 92,
+        "total_issues_created": 0,
+        "total_volume": 270,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.4963600264725348,
+        "regularity": 1.0,
+        "volume_normalized": 0.9938162544169618,
+        "experience_score": 0.8480352561778993,
+        "experience_level": "Advanced"
+      },
+      {
+        "login": "sebmarkbage",
+        "span_months": 11.925098554533507,
+        "active_months": 13,
+        "total_prs_created": 457,
+        "total_prs_reviewed": 79,
+        "total_issues_created": 0,
+        "total_volume": 536,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.498434667984841,
+        "regularity": 1.0,
+        "volume_normalized": 1.0,
+        "experience_score": 0.8496869335969682,
+        "experience_level": "Advanced"
+      },
+      {
+        "login": "josephsavona",
+        "span_months": 11.399474375821287,
+        "active_months": 12,
+        "total_prs_created": 189,
+        "total_prs_reviewed": 19,
+        "total_issues_created": 0,
+        "total_volume": 208,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.4871679676531701,
+        "regularity": 0.9677829588808818,
+        "volume_normalized": 0.765606595995289,
+        "experience_score": 0.7860572442260887,
+        "experience_level": "Advanced"
+      },
+      {
+        "login": "nathanmarks",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "hoxyq",
+        "span_months": 11.727989487516425,
+        "active_months": 11,
+        "total_prs_created": 59,
+        "total_prs_reviewed": 69,
+        "total_issues_created": 0,
+        "total_volume": 128,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.4942681508556238,
+        "regularity": 0.8642370431550692,
+        "volume_normalized": 0.47114252061248557,
+        "experience_score": 0.681988803713403,
+        "experience_level": "Advanced"
+      },
+      {
+        "login": "pythonsst",
+        "span_months": 0.42706964520367935,
+        "active_months": 1,
+        "total_prs_created": 3,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 3,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0.034366078037432586,
+        "regularity": 0.7007366482504604,
+        "volume_normalized": 0.011042402826855131,
+        "experience_score": 0.3744131878855647,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "rickhanlonii",
+        "span_months": 11.333771353482259,
+        "active_months": 11,
+        "total_prs_created": 93,
+        "total_prs_reviewed": 116,
+        "total_issues_created": 2,
+        "total_volume": 211,
+        "roles": [
+          "coder",
+          "reviewer",
+          "reporter"
+        ],
+        "diversity_score": 1.0,
+        "span_normalized": 0.4857239398547052,
+        "regularity": 0.891860217344982,
+        "volume_normalized": 0.7766489988221442,
+        "experience_score": 0.8038116855406118,
+        "experience_level": "Advanced"
+      },
+      {
+        "login": "henryqdineen",
+        "span_months": 11.76084099868594,
+        "active_months": 4,
+        "total_prs_created": 5,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 5,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0.49496737086605463,
+        "regularity": 0.3134589640613737,
+        "volume_normalized": 0.01840400471142522,
+        "experience_score": 0.29373080894311415,
+        "experience_level": "Initial"
+      },
+      {
+        "login": "sebastien-byte",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "mofeiZ",
+        "span_months": 10.052562417871222,
+        "active_months": 9,
+        "total_prs_created": 90,
+        "total_prs_reviewed": 26,
+        "total_issues_created": 0,
+        "total_volume": 116,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.45584554880228817,
+        "regularity": 0.8142908096540245,
+        "volume_normalized": 0.42697290930506504,
+        "experience_score": 0.6429945559657816,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "poteto",
+        "span_months": 11.498028909329829,
+        "active_months": 13,
+        "total_prs_created": 259,
+        "total_prs_reviewed": 35,
+        "total_issues_created": 0,
+        "total_volume": 294,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.4893188681355553,
+        "regularity": 1.0,
+        "volume_normalized": 1.0,
+        "experience_score": 0.847863773627111,
+        "experience_level": "Advanced"
+      },
+      {
+        "login": "unstubbable",
+        "span_months": 11.695137976346912,
+        "active_months": 10,
+        "total_prs_created": 36,
+        "total_prs_reviewed": 28,
+        "total_issues_created": 0,
+        "total_volume": 64,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.49356699201419696,
+        "regularity": 0.7877031363212919,
+        "volume_normalized": 0.23557126030624279,
+        "experience_score": 0.6002940618086693,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "jzhan-canva",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 1,
+        "total_volume": 2,
+        "roles": [
+          "coder",
+          "reporter"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.007361601884570087,
+        "experience_score": 0.5514723203769141,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "gnoff",
+        "span_months": 11.005256241787121,
+        "active_months": 10,
+        "total_prs_created": 32,
+        "total_prs_reviewed": 52,
+        "total_issues_created": 0,
+        "total_volume": 84,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.47838007654081216,
+        "regularity": 0.832968476357268,
+        "volume_normalized": 0.30918727915194366,
+        "experience_score": 0.6323492854993218,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "EugeneChoi4",
+        "span_months": 1.609724047306176,
+        "active_months": 3,
+        "total_prs_created": 20,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 20,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0.11827749348266872,
+        "regularity": 1.0,
+        "volume_normalized": 0.07361601884570088,
+        "experience_score": 0.538378702465674,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "Biki-das",
+        "span_months": 9.099868593955321,
+        "active_months": 4,
+        "total_prs_created": 4,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 4,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0.4312760789686741,
+        "regularity": 0.39604475670049444,
+        "volume_normalized": 0.014723203769140174,
+        "experience_score": 0.3174199970627854,
+        "experience_level": "Initial"
+      },
+      {
+        "login": "Jidayyyyyy",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "pet210702",
+        "span_months": 0.0,
+        "active_months": 1,
+        "total_prs_created": 2,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 2,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.007361601884570087,
+        "experience_score": 0.501472320376914,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "acdlite",
+        "span_months": 9.85545335085414,
+        "active_months": 5,
+        "total_prs_created": 11,
+        "total_prs_reviewed": 43,
+        "total_issues_created": 0,
+        "total_volume": 54,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.4509379509379509,
+        "regularity": 0.46059799055804385,
+        "volume_normalized": 0.19876325088339233,
+        "experience_score": 0.43720933611538837,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "jf-eirinha",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 1,
+        "total_volume": 2,
+        "roles": [
+          "coder",
+          "reporter"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.007361601884570087,
+        "experience_score": 0.5514723203769141,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "ujjwaljha1",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "Keerthana-Juluri",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "Krishnalathayadav",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "somarathigaganasaisree",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "Sudeepthi-235",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "AutiSahasra",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "SAO10473",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "Siddharthaa19",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "sairamareddy2",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "SahithiUppala",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "Saanvi577",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "Saaaath26",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "bhanusrikari",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "samhita1100",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "josepharhar",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "arthur-mountain",
+        "span_months": 11.432325886990801,
+        "active_months": 3,
+        "total_prs_created": 3,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 3,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0.48788694481830414,
+        "regularity": 0.24130641581228202,
+        "volume_normalized": 0.011042402826855131,
+        "experience_score": 0.25837375664455875,
+        "experience_level": "Initial"
+      },
+      {
+        "login": "davbrito",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "sophiebits",
+        "span_months": 11.070959264126149,
+        "active_months": 4,
+        "total_prs_created": 5,
+        "total_prs_reviewed": 4,
+        "total_issues_created": 0,
+        "total_volume": 9,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.4798655806800706,
+        "regularity": 0.3313738297409101,
+        "volume_normalized": 0.03312720848056539,
+        "experience_score": 0.35171678121553673,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "Anatole-Godard",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 2,
+        "total_volume": 3,
+        "roles": [
+          "coder",
+          "reporter"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.011042402826855131,
+        "experience_score": 0.5522084805653711,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "eai04191",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 2,
+        "total_volume": 3,
+        "roles": [
+          "coder",
+          "reporter"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.011042402826855131,
+        "experience_score": 0.5522084805653711,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "KhalHuntsman",
+        "span_months": 0.0,
+        "active_months": 1,
+        "total_prs_created": 2,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 2,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.007361601884570087,
+        "experience_score": 0.501472320376914,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "mdj-uk",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 1,
+        "total_volume": 2,
+        "roles": [
+          "coder",
+          "reporter"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.007361601884570087,
+        "experience_score": 0.5514723203769141,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "k-yle",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "nossbigg",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "Heyykrishnna",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "yashhhYB",
+        "span_months": 0.36136662286465177,
+        "active_months": 2,
+        "total_prs_created": 7,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 7,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0.02923354948442649,
+        "regularity": 1.0,
+        "volume_normalized": 0.025765606595995305,
+        "experience_score": 0.5109998312160844,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "SaisakthiM",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "dfvgbh",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "SeaOtocinclus",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "rubennorte",
+        "span_months": 5.5847568988173455,
+        "active_months": 4,
+        "total_prs_created": 7,
+        "total_prs_reviewed": 12,
+        "total_issues_created": 0,
+        "total_volume": 19,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.31759079360334774,
+        "regularity": 0.6074635801237278,
+        "volume_normalized": 0.06993521790341582,
+        "experience_score": 0.45086381335703024,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "jackpope",
+        "span_months": 11.202365308804204,
+        "active_months": 12,
+        "total_prs_created": 51,
+        "total_prs_reviewed": 45,
+        "total_issues_created": 0,
+        "total_volume": 96,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.4828113496063884,
+        "regularity": 0.9834158948955417,
+        "volume_normalized": 0.3533568904593642,
+        "experience_score": 0.7097708007161443,
+        "experience_level": "Advanced"
+      },
+      {
+        "login": "kolvian",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "uellenberg",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "li-jia-nan",
+        "span_months": 9.822601839684625,
+        "active_months": 2,
+        "total_prs_created": 2,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 2,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0.4501113988077317,
+        "regularity": 0.1847984458474988,
+        "volume_normalized": 0.007361601884570087,
+        "experience_score": 0.22465390076983482,
+        "experience_level": "Initial"
+      },
+      {
+        "login": "ramansingh19",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "DhruvinSathvara07",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "jbrown215",
+        "span_months": 11.038107752956636,
+        "active_months": 10,
+        "total_prs_created": 36,
+        "total_prs_reviewed": 7,
+        "total_issues_created": 0,
+        "total_volume": 43,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.47912388774811776,
+        "regularity": 0.8306953389367973,
+        "volume_normalized": 0.15827444051825687,
+        "experience_score": 0.6012925681748337,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "dhruvin0567",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "BhagiDevaliya",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "cipolleschi",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 1,
+        "total_issues_created": 0,
+        "total_volume": 2,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.007361601884570087,
+        "experience_score": 0.5514723203769141,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "enoshbrainard",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "Caden-Hornyak",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "ianduvall",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 1,
+        "total_volume": 2,
+        "roles": [
+          "coder",
+          "reporter"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.007361601884570087,
+        "experience_score": 0.5514723203769141,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "chirokas",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "pereayats",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "javiergonzalez-synth",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "khaled65442",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "samveda-t",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "jorge-cab",
+        "span_months": 4.862023653088042,
+        "active_months": 6,
+        "total_prs_created": 43,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 43,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0.2883416458852868,
+        "regularity": 1.0,
+        "volume_normalized": 0.15827444051825687,
+        "experience_score": 0.5893232172807088,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "Tanvichovatiya",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "blazejkustra",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "pritjasani08",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "barryam3",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "ShivrajShelar99",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "lubieowoce",
+        "span_months": 5.946123521681997,
+        "active_months": 2,
+        "total_prs_created": 2,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 2,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0.33133191769788384,
+        "regularity": 0.28793038214150585,
+        "volume_normalized": 0.007361601884570087,
+        "experience_score": 0.24730737588016843,
+        "experience_level": "Initial"
+      },
+      {
+        "login": "VaishnaviShirishBorkar",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "javache",
+        "span_months": 8.245729303547963,
+        "active_months": 6,
+        "total_prs_created": 6,
+        "total_prs_reviewed": 6,
+        "total_issues_created": 0,
+        "total_volume": 12,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.40728240410203154,
+        "regularity": 0.6489482660602616,
+        "volume_normalized": 0.044169611307420524,
+        "experience_score": 0.48231712280900807,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "kassens",
+        "span_months": 9.625492772667542,
+        "active_months": 8,
+        "total_prs_created": 51,
+        "total_prs_reviewed": 19,
+        "total_issues_created": 0,
+        "total_volume": 70,
+        "roles": [
+          "coder",
+          "reviewer"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0.44509934982074495,
+        "regularity": 0.7529062577294089,
+        "volume_normalized": 0.25765606595995305,
+        "experience_score": 0.5793588991343737,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "lluisemper",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "ospira",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "stipsan",
+        "span_months": 8.902759526938238,
+        "active_months": 3,
+        "total_prs_created": 4,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 4,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0.42591312001005843,
+        "regularity": 0.30294585987261147,
+        "volume_normalized": 0.014723203769140174,
+        "experience_score": 0.2744529016985149,
+        "experience_level": "Initial"
+      },
+      {
+        "login": "zekariasasaminew",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "ytahirkose",
+        "span_months": 0.0,
+        "active_months": 1,
+        "total_prs_created": 2,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 2,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.007361601884570087,
+        "experience_score": 0.501472320376914,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "sumimhasan",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 1,
+        "total_volume": 2,
+        "roles": [
+          "coder",
+          "reporter"
+        ],
+        "diversity_score": 0.6666666666666666,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.007361601884570087,
+        "experience_score": 0.5514723203769141,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "ArnaudBarre",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "DarshanBhamare",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "andreisilviudragnea",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "ReNothingg",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "KimCookieYa",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "markoskatehis",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "dennyLuc",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "fluiderson",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "Shrishti-18-03-2006",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "JeetuSuthar",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "amansoomro062",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "Svetlana152025",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "wo-o29",
+        "span_months": 9.494086727989487,
+        "active_months": 3,
+        "total_prs_created": 6,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 6,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0.44170691447086874,
+        "regularity": 0.2858752817430504,
+        "volume_normalized": 0.022084805653710262,
+        "experience_score": 0.2714022208092885,
+        "experience_level": "Initial"
+      },
+      {
+        "login": "inciarmors",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      },
+      {
+        "login": "iamsmruti",
+        "span_months": 0,
+        "active_months": 1,
+        "total_prs_created": 1,
+        "total_prs_reviewed": 0,
+        "total_issues_created": 0,
+        "total_volume": 1,
+        "roles": [
+          "coder"
+        ],
+        "diversity_score": 0.3333333333333333,
+        "span_normalized": 0,
+        "regularity": 1.0,
+        "volume_normalized": 0.0036808009422850435,
+        "experience_score": 0.500736160188457,
+        "experience_level": "Intermediate"
+      }
+    ],
+    "methodology": {
+      "span_normalization": "Snorm = S / (S + 12)",
+      "volume_normalization": "Vnorm = V / P99(Volume)",
+      "diversity_calculation": "D = Roles / 3 (max roles)",
+      "experience_formula": "ExperienceScore = wS⋅Snorm + wR⋅R + wV⋅Vnorm + wD⋅D"
+    }
+  },
+  "Q4_experience_approval_effect": {
+    "Intermediate": {
+      "total_prs": 564,
+      "approved_prs": 284,
+      "approval_rate": 0.5035460992907801,
+      "approval_percentage": 50.35460992907801,
+      "contributors_count": 175
+    },
+    "Advanced": {
+      "total_prs": 1286,
+      "approved_prs": 1106,
+      "approval_rate": 0.8600311041990669,
+      "approval_percentage": 86.00311041990669,
+      "contributors_count": 7
+    },
+    "Initial": {
+      "total_prs": 39,
+      "approved_prs": 11,
+      "approval_rate": 0.28205128205128205,
+      "approval_percentage": 28.205128205128204,
+      "contributors_count": 12
+    }
+  },
+  "Q5_experience_frequency_correlation": {
+    "Intermediate": {
+      "contributors_count": 175,
+      "total_prs_stats": {
+        "mean": 3.222857142857143,
+        "median": 1,
+        "sum": 564
+      },
+      "avg_interval_stats": {
+        "mean_days": 11.87712093521395,
+        "median_days": 3,
+        "contributors_with_intervals": 43
+      }
+    },
+    "Advanced": {
+      "contributors_count": 7,
+      "total_prs_stats": {
+        "mean": 183.71428571428572,
+        "median": 178,
+        "sum": 1286
+      },
+      "avg_interval_stats": {
+        "mean_days": 2.917541852745854,
+        "median_days": 1.6836158192090396,
+        "contributors_with_intervals": 7
+      }
+    },
+    "Initial": {
+      "contributors_count": 12,
+      "total_prs_stats": {
+        "mean": 3.25,
+        "median": 3.0,
+        "sum": 39
+      },
+      "avg_interval_stats": {
+        "mean_days": 118.50555555555556,
+        "median_days": 91.0,
+        "contributors_with_intervals": 12
+      }
+    }
+  },
+  "analysis_info": {
+    "processed_at": "2025-10-19T14:03:48.677167",
+    "repository_limitation": true,
+    "data_sources": {
+      "authors": 194,
+      "contributors": 1,
+      "prs": 2189,
+      "issues": 100
+    }
+  }
+}
