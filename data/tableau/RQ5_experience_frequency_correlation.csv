@@ -1,0 +1,4 @@
+experience_level,contributors_count,total_prs_sum,total_prs_mean,total_prs_median,avg_interval_mean_days,avg_interval_median_days,contributors_with_intervals
+Initial,12,39,3.25,3.0,118.50555555555556,91.0,12
+Intermediate,175,564,3.222857142857143,1,11.87712093521395,3,43
+Advanced,7,1286,183.71428571428572,178,2.917541852745854,1.6836158192090396,7
